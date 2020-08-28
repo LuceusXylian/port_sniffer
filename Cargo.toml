@@ -4,7 +4,7 @@ description = "Port Sniffer prints the on-going port number of the target host"
 version = "0.1.0"
 authors = ["Xylian <xylianzeref@gmail.com>"]
 edition = "2018"
-license = "LGPL-2.1 License (https://raw.githubusercontent.com/XylianZeref/port_sniffer/master/LICENSE)"
+license = "LGPL-2.1 License"
 repository = "https://github.com/XylianZeref/port_sniffer"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
