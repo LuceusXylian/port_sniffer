@@ -1,5 +1,5 @@
 [package]
-name = "port_sniffer"
+name = "xylian_port_sniffer"
 description = "Port Sniffer prints the on-going port number of the target host"
 version = "0.1.0"
 authors = ["Xylian <xylianzeref@gmail.com>"]
